@@ -1,5 +1,6 @@
-# ABCDigital2021
+# ABC Digital
 
+Curso Introductorio | semestre 2021-II 
 CENTRO Diseño, Cine y Televisión
 
 
@@ -11,7 +12,7 @@ CENTRO Diseño, Cine y Televisión
 
 ## Sesiones
 
-- [x] [Clase 01. Cómputo personal en contextos creativos](https://github.com/MarianneTeixido/ABCDigital2021/tree/master/clase01/README.md)  
+- [x] [Clase 01. Cómputo personal en contextos creativos y herramientas de CENTRO](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/clase1/README.md)  
 
 - [x] [Clase 02. Productividad, gestión personal digital y trabajo colaborativo](https://github.com/MarianneTeixido/ABCDigital2021/tree/master/clase02/README.md)  
 
