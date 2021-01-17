@@ -172,7 +172,7 @@ __Ejercicio sugerido:__ Ingresar al perfil de BrightSpace, modificar la imagen d
 
 ## Paquetería de Adobe
 
-![adobe](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/img/cc.jpeg)
+<img src="img/cc.jpeg" width="500">
 
 [Crear cuenta _Creative Cloud_ ](https://auth.services.adobe.com/es_MX/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fmx%252F%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26state%3D%257B%2522ac%2522%253A%2522%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=adobedotcom2&scope=creative_cloud%2CAdobeID%2Copenid%2Cgnav%2Cread_organizations%2Cadditional_info.projectedProductContext%2Csao.ACOM_CLOUD_STORAGE%2Csao.stock%2Csao.cce_private%2Cadditional_info.roles&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fmx%252F%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26response_type%3Dtoken%26state%3D%257B%2522ac%2522%253A%2522%2522%257D&state=%7B%22ac%22%3A%22%22%7D&relay=dbef6816-5318-46d4-866d-bf3d9ea8b026&locale=es_MX&flow_type=token&idp_flow_type=login#/signup)
 
