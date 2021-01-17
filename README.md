@@ -3,7 +3,7 @@
 CENTRO Diseño, Cine y Televisión
 
 
-![portada](https://github.com/MarianneTeixido/ABCDigital2021/blob/master/img/portada.png)
+![portada](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/img/portada.png)
 
 ## Objetivo
 - Identificará y clasificará en contextos computaciones o informáticos, los métodos, procesos y técnicas digitales que proveen marcos de trabajos facilitadores para profesiones creativas. 
