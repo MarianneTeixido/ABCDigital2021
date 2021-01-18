@@ -74,7 +74,7 @@ El CPU es la “unidad central de procesamiento” de una computadora, lo que si
 
 _Nota: La palabra CPU es comúnmente mal utilizada para referirse a la torre que contiene todas las partes de una computadora._
 
-Algunos de los tipos de procesadores más comúnes: 
+Algunos de los tipos de procesadores más comunes: 
 
 Intel
 
@@ -82,13 +82,13 @@ Intel
 
 - Core i7: El procesador Intel Core i7 pertenece a la gama alta de Intel y esto se puede comprobar en el rendimiento. El rango de velocidad de procesamiento es de 1.6 a 3.46 GHz. 
 
-- Core i9: Soportan hasta 4.4 GHz. Experimental. 
+- Core i9: Soportan hasta 4.4 GHz. 
 
 AMD 
 
 - FX 6300: Es uno de los procesadores más potentes de AMD. Es capaz de llevar a cabo una gran carga de trabajo y correr algunos de los últimos videojuegos, streaming. Tiene una frecuencia de 3,8/4,1 Ghz.
 
-- RYZEN ThreadRipper: La gama RYZEN está formada por chips de cuatro, seis y ocho núcleos. Así, el más potente de ellos puede alcanzar una velocidad dde 3.6 GHz y puede llegar hasta 4.0 GHz.
+- RYZEN ThreadRipper: La gama RYZEN está formada por chips de cuatro, seis y ocho núcleos. Así, el más potente de ellos puede alcanzar una velocidad de 3.6 GHz y puede llegar hasta 4.0 GHz.
 
 ### Memoria RAM
 
@@ -123,7 +123,7 @@ La tarjeta de video o GPU (_Graphics Processing Unit_ o Unidad de Procesamiento 
 
 Dependiendo de la demanda que tengan los programas o juegos a ejecutar es el tipo de tarjeta de video que se debe usar en una computadora.
 
-[Lista de las mejores tarjetas de video para el 2020](https://www.techradar.com/uk/news/computing-components/graphics-cards/best-graphics-cards-1291458)
+[Lista de las mejores tarjetas de video para el 2021](https://www.geeknetic.es/Guia/1952/Tarjetas-graficas-Cuales-son-las-mejores.html)
 
 ## Recomendaciones para equipos de cómputo. 
  
@@ -176,7 +176,7 @@ __Ejercicio sugerido:__ Ingresar al perfil de BrightSpace, modificar la imagen d
 
 [Crear cuenta _Creative Cloud_ ](https://auth.services.adobe.com/es_MX/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fmx%252F%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26state%3D%257B%2522ac%2522%253A%2522%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=adobedotcom2&scope=creative_cloud%2CAdobeID%2Copenid%2Cgnav%2Cread_organizations%2Cadditional_info.projectedProductContext%2Csao.ACOM_CLOUD_STORAGE%2Csao.stock%2Csao.cce_private%2Cadditional_info.roles&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fmx%252F%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26response_type%3Dtoken%26state%3D%257B%2522ac%2522%253A%2522%2522%257D&state=%7B%22ac%22%3A%22%22%7D&relay=dbef6816-5318-46d4-866d-bf3d9ea8b026&locale=es_MX&flow_type=token&idp_flow_type=login#/signup)
 
-Uno de los softwares que tendrán que usar con mayor frecuencia serán los relacionados con la _suit_ de Adobe, _Creative Cloud_. Tales como Photoshop, Illustrator, Premiere Pro, Lightroom, entre otros. 
+Uno de los softwares que tendrán que usar con mayor frecuencia serán los relacionados con la _suite_ de Adobe _Creative Cloud_. Tales como Photoshop, Illustrator, Premiere Pro, Lightroom, entre otros. 
 
 CENTRO tiene convenio con la empresa Adobe, por lo cual tienen un 60% de descuento en el pago de la licencia de la paquetería. Por lo cual el pago por mes sería de $19.99 USD, en el primer año. 
 
@@ -184,7 +184,7 @@ __IMPORTANTE:__ Preferentemente crear una cuenta en _Creative Cloud_ con el corr
 
 ## Herramienta de Software Libre o de compra única. 
 
-A continuación tenemos una lista con las alternativas de software a las cuales podemos recurrir en caso de tener alguna complicación con la _suit_ de Adobe. 
+A continuación tenemos una lista con las alternativas de software a las cuales podemos recurrir en caso de tener alguna complicación con la _suite_ de Adobe. 
 
  ![slibre](https://github.com/MarianneTeixido/ABCDigital2020-2/blob/master/img/alternativas.jpg)  
 
@@ -199,6 +199,9 @@ Por último, para Mac en la página [_Mac Torrent_](https://www.torrentmac.net/)
 - [Dropbox](https://www.dropbox.com/es). Almacenamiento en la nube que se puede sincronizar con los archivos del escritorio. Espacio limitado sin cuenta _premium_.
 - [Archive](https://archive.org/). Librería con licencia libre, de descarga y acceso para almacenar libros, música, texto, sitios web, software, etc. No tiene límite de espacio y es libre, es decir no requiere ningún tipo de pago. Los archivos que subamos son libre y públicos. 
 
+## Ejercicio
+
+Envío de archivos. 
 
 
 
