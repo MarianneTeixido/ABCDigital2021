@@ -12,11 +12,11 @@ CENTRO Diseño, Cine y Televisión
 
 ## Sesiones
 
-- [x] [Clase 01. Cómputo personal en contextos creativos y herramientas de CENTRO](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/clase1/README.md)  
+- [ ] [Clase 01. Cómputo personal en contextos creativos y herramientas de CENTRO](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/clase1/README.md)  
 
-- [x] [Clase 02. Productividad, gestión personal digital y trabajo colaborativo](https://github.com/MarianneTeixido/ABCDigital2021/tree/master/clase02/README.md)  
+- [ ] Clase 02. Gestión de archivos y trabajo colaborativo 
 
-- [x] [Clase 03. Trabajo con archivos](https://github.com/MarianneTeixido/ABCDigital2021/tree/master/clase03/README.md)  
+- [ ] Clase 03. Fuentes de información, navegadores y datos personales 
 
 ## Actividades de aprendizaje
 
