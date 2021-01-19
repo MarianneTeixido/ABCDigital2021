@@ -201,7 +201,18 @@ Por último, para Mac en la página [_Mac Torrent_](https://www.torrentmac.net/)
 
 ## Ejercicio
 
-Envío de archivos. 
+[Envío de archivos](https://docs.google.com/document/d/1j1KQmZUoAtcsFACr8T7DYluQTPPT2h2zprGKz-3sa_Y/edit?usp=sharing). 
+
+
+_______________
+
+
+
+# Recursos CENTRO
+
+## Mediateca
+
+Ingresar a la Mediateca a través de Brightspace. 
 
 
 
